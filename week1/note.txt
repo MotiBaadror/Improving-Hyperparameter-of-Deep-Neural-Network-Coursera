@@ -1,0 +1,12 @@
+
+linear activation function , regularization make 
+	so that the neural net will become linear relation 
+ variance 
+ 	make the more data 
+ 		data augumentation 
+ 			by rotating images and generating mirroe image of the images 
+Early stopping ??
+vanishing gradient ??
+	how weight initialization help 
+	
+
